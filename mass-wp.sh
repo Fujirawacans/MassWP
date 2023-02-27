@@ -1,5 +1,5 @@
 #!/bin/bash
-#Author : Kelelawar Cyber Team 
+#Author : Japan Hacker Rullez
 
 #----------- CONFIGURATION -----------
 curl_timeout=20
@@ -50,7 +50,7 @@ function _TestLogin() {
 }
 
 echo -e  "${YEL}                     WordPress Mass Bruteforce"
-echo -e "${CLR}                 https://github.com/KelelawarCyberTeam/Wp-Mass${YEL}"
+echo -e "${CLR}                 ${YEL}"
 
 echo -ne "[?] Input List Web Target : "
 read Target
